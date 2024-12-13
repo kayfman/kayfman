@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi👋
+## I frontend-developer.
+## my stack : JS(react(mantine), nodejs),CSS
+## I know a little: C#, python, mysql, postgres, php(codeigniter4) 
 
 <!--
 **kayfman/kayfman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
