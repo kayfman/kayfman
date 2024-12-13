@@ -1,5 +1,5 @@
 ## Hi👋
-## I frontend-developer.
+## I am frontend-developer.
 ## my stack : JS(react(mantine), nodejs),CSS
 ## I know a little: C#, python, mysql, postgres, php(codeigniter4) 
 
